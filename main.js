@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdasdasdaasdasdasda
+=======
+asdasfasasdasdasdasfa
+>>>>>>> NDA
